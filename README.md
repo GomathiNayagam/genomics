@@ -1,5 +1,5 @@
 # Genomics
-Welcome to the DNA day Hands-on Genomic data analysis Workshop.
+Welcome to the SCSB Hands-on Genomic data analysis Workshop.
 
 Here you find the sample data for the analysis for our workshop forked from the Unicycler pipeline.
 
